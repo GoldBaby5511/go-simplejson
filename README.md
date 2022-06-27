@@ -7,7 +7,7 @@ a Go package to interact with arbitrary JSON
 
 ### Importing
 
-    import github.com/bitly/go-simplejson
+    import github.com/GoldBaby5511/go-simplejson
 
 ### Documentation
 
